@@ -565,7 +565,7 @@ body .wrap-body{
 	text-align: center;
 }
 
-.content-box.box-3 .box-text {
+.content-box.box-3 .box-text-travis {
 	width: 600px;
 	display: flex;
 	flex-direction: column;
